@@ -1,0 +1,18 @@
+.noProjectdSelected{
+    padding-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 5rem
+}
+
+.noProjectdSelected h2{
+    margin-bottom: 0;
+}
+
+.noProjectdSelected img{
+    max-width: 100px;
+}

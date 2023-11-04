@@ -1,0 +1,36 @@
+.newProject{
+    width: calc(100% - 250px);
+    max-width: 500px;
+}
+menu{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+menu li{
+    list-style-type: none;
+}
+
+.inputWrapper label{
+    display: block;
+    margin-bottom: 3px;
+}
+
+.inputWrapper input,
+.inputWrapper textarea{
+    background-color: #eee;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #dddddd;
+    padding: 5px;
+}
+
+.inputWrapper textarea{
+    height: 70px;
+    resize: none;
+}
+
+.inputWrapper input:focus{
+    border: none;
+}
