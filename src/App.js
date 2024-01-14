@@ -23,7 +23,7 @@ function App() {
 
       return {
         ...prevState,
-        task: [newTask, ...projectState.task],
+        task: [newTask, ...projectState.tasks],
       };
     });
   };
