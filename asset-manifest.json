@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project-mgmt/static/css/main.dc4e03c7.css",
+    "main.js": "/project-mgmt/static/js/main.92d9e4cb.js",
+    "static/media/no-projects.png": "/project-mgmt/static/media/no-projects.d0fa8df6b36911f61637.png",
+    "index.html": "/project-mgmt/index.html",
+    "main.dc4e03c7.css.map": "/project-mgmt/static/css/main.dc4e03c7.css.map",
+    "main.92d9e4cb.js.map": "/project-mgmt/static/js/main.92d9e4cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4e03c7.css",
+    "static/js/main.92d9e4cb.js"
+  ]
+}
